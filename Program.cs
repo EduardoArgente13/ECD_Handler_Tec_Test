@@ -51,7 +51,7 @@ namespace ECD_Handler
                     decimal total = montos.Sum();
                     totalGeneral += total; 
 
-                    Console.WriteLine($"El total de la factura en {file_msg_aux[0]} es: {total}");
+                    Console.WriteLine($"El total de la factura en {file_msg_aux[0]} es: {total}\n\n\n");
                 }
                 catch (Exception ex)
                 {

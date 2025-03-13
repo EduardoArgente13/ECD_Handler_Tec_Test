@@ -27,3 +27,4 @@ C:\Users\kbs_s\Documents\ECD_Handler-20250313T162532Z-001\ECD_Handler\obj\Debug\
 C:\Users\kbs_s\Documents\ECD_Handler-20250313T162532Z-001\ECD_Handler\obj\Debug\net6.0\ECD_Handler.pdb
 C:\Users\kbs_s\Documents\ECD_Handler-20250313T162532Z-001\ECD_Handler\obj\Debug\net6.0\ECD_Handler.genruntimeconfig.cache
 C:\Users\kbs_s\Documents\ECD_Handler-20250313T162532Z-001\ECD_Handler\obj\Debug\net6.0\ref\ECD_Handler.dll
+C:\Users\kbs_s\Documents\ECD_Handler-20250313T162532Z-001\ECD_Handler\obj\Debug\net6.0\ECD_Handler.sourcelink.json
