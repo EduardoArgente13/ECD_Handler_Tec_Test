@@ -20,7 +20,6 @@ Los archivos XML contienen información sobre facturas y montos de dinero. El pr
 ## **Proceso de desarrollo**
 
 ### **1. Configuración del proyecto**
-- El proyecto fue creado en **.NET 8**, aunque originalmente estaba configurado para .NET 6. Se decidió usar .NET 8 porque es la versión instalada en el sistema.
 - Se utilizó **Visual Studio Code** como editor de código.
 
 ### **2. Lectura de archivos XML**
