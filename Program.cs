@@ -7,7 +7,6 @@ namespace ECD_Handler
 {
     class Program
     {
-        // to print several strings at once, with a defined separator and ending char/string
         static void print_msgs(string[]? txt_msgs = null, string sep = "\n", string end = "\n")
         {
             if (txt_msgs is null)
@@ -24,29 +23,25 @@ namespace ECD_Handler
             return;
         }
 
-        // to get current user dir (home dir)
         static string get_home_dir()
         {
             return Environment.GetFolderPath(Environment.SpecialFolder.UserProfile);
         }
 
-        // Process each XML file
         static void process_files_dir(string[] files)
         {
             string[] file_msg_aux = { "", "", new String('-', 30) };
-            decimal totalGeneral = 0; // Para almacenar el total general de todas las facturas
+            decimal totalGeneral = 0;
 
             foreach (string file in files)
             {
-                file_msg_aux[0] = file.Split('\\')[file.Split('\\').Length - 1]; // only displays the filename
+                file_msg_aux[0] = file.Split('\\')[file.Split('\\').Length - 1];
                 print_msgs(txt_msgs: file_msg_aux, end: "\n\n");
 
                 try
                 {
-                    // Load the XML file
                     XDocument xmlDoc = XDocument.Load(file);
 
-                    // Find all <monto_total> within <liquidacion num_liq="0">
                     var montos = xmlDoc.Descendants("liquidacion")
                                        .Where(l => l.Attribute("num_liq")?.Value == "0")
                                        .Descendants("monto_total")
@@ -54,21 +49,18 @@ namespace ECD_Handler
 
                     // Sum the montos
                     decimal total = montos.Sum();
-                    totalGeneral += total; // Agrega el total de esta factura al total general
+                    totalGeneral += total; 
 
-                    // Print the total for the current file
                     Console.WriteLine($"El total de la factura en {file_msg_aux[0]} es: {total}");
                 }
                 catch (Exception ex)
                 {
-                    // Manejo de errores
                     Console.WriteLine($"Error al procesar el archivo {file_msg_aux[0]}: {ex.Message}");
                 }
 
                 Console.WriteLine();
             }
 
-            // Mostrar el resumen final
             Console.WriteLine(new string('=', 50));
             Console.WriteLine($"El total general de todas las facturas es: {totalGeneral}");
             Console.WriteLine(new string('=', 50));
@@ -76,23 +68,20 @@ namespace ECD_Handler
 
         static void Main(string[] args)
         {
-            // Cambia la ruta a la carpeta XML_files dentro del proyecto
             string work_dir = Path.Combine(Directory.GetCurrentDirectory(), "XML_files");
 
-            // Verifica si la carpeta existe
             if (!Directory.Exists(work_dir))
             {
                 Console.WriteLine("La carpeta XML_files no existe.");
                 return;
             }
 
-            string[] files = Directory.GetFiles(work_dir, "*.xml"); // * Always xml
+            string[] files = Directory.GetFiles(work_dir, "*.xml");
             string[] welcome_msg = { "   # Programa ECD Handler"
                                 , " # The files are going to be selected from " + work_dir};
 
             print_msgs(txt_msgs: welcome_msg, sep: new string('\n', 2));
 
-            // Process the files
             process_files_dir(files);
         }
     }
