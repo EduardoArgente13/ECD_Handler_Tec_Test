@@ -1,0 +1,29 @@
+\\172.19.1.48\Users\Carlos Fregoso\Documents\Google Drive\BravosReq\Allan\Puestos\DesarrolladorWeb\tec_test\ECD_Handler\bin\Debug\net6.0\ECD_Handler.exe
+\\172.19.1.48\Users\Carlos Fregoso\Documents\Google Drive\BravosReq\Allan\Puestos\DesarrolladorWeb\tec_test\ECD_Handler\bin\Debug\net6.0\ECD_Handler.deps.json
+\\172.19.1.48\Users\Carlos Fregoso\Documents\Google Drive\BravosReq\Allan\Puestos\DesarrolladorWeb\tec_test\ECD_Handler\bin\Debug\net6.0\ECD_Handler.runtimeconfig.json
+\\172.19.1.48\Users\Carlos Fregoso\Documents\Google Drive\BravosReq\Allan\Puestos\DesarrolladorWeb\tec_test\ECD_Handler\bin\Debug\net6.0\ECD_Handler.dll
+\\172.19.1.48\Users\Carlos Fregoso\Documents\Google Drive\BravosReq\Allan\Puestos\DesarrolladorWeb\tec_test\ECD_Handler\bin\Debug\net6.0\ECD_Handler.pdb
+\\172.19.1.48\Users\Carlos Fregoso\Documents\Google Drive\BravosReq\Allan\Puestos\DesarrolladorWeb\tec_test\ECD_Handler\obj\Debug\net6.0\ECD_Handler.csproj.AssemblyReference.cache
+\\172.19.1.48\Users\Carlos Fregoso\Documents\Google Drive\BravosReq\Allan\Puestos\DesarrolladorWeb\tec_test\ECD_Handler\obj\Debug\net6.0\ECD_Handler.GeneratedMSBuildEditorConfig.editorconfig
+\\172.19.1.48\Users\Carlos Fregoso\Documents\Google Drive\BravosReq\Allan\Puestos\DesarrolladorWeb\tec_test\ECD_Handler\obj\Debug\net6.0\ECD_Handler.AssemblyInfoInputs.cache
+\\172.19.1.48\Users\Carlos Fregoso\Documents\Google Drive\BravosReq\Allan\Puestos\DesarrolladorWeb\tec_test\ECD_Handler\obj\Debug\net6.0\ECD_Handler.AssemblyInfo.cs
+\\172.19.1.48\Users\Carlos Fregoso\Documents\Google Drive\BravosReq\Allan\Puestos\DesarrolladorWeb\tec_test\ECD_Handler\obj\Debug\net6.0\ECD_Handler.csproj.CoreCompileInputs.cache
+\\172.19.1.48\Users\Carlos Fregoso\Documents\Google Drive\BravosReq\Allan\Puestos\DesarrolladorWeb\tec_test\ECD_Handler\obj\Debug\net6.0\ECD_Handler.dll
+\\172.19.1.48\Users\Carlos Fregoso\Documents\Google Drive\BravosReq\Allan\Puestos\DesarrolladorWeb\tec_test\ECD_Handler\obj\Debug\net6.0\refint\ECD_Handler.dll
+\\172.19.1.48\Users\Carlos Fregoso\Documents\Google Drive\BravosReq\Allan\Puestos\DesarrolladorWeb\tec_test\ECD_Handler\obj\Debug\net6.0\ECD_Handler.pdb
+\\172.19.1.48\Users\Carlos Fregoso\Documents\Google Drive\BravosReq\Allan\Puestos\DesarrolladorWeb\tec_test\ECD_Handler\obj\Debug\net6.0\ECD_Handler.genruntimeconfig.cache
+\\172.19.1.48\Users\Carlos Fregoso\Documents\Google Drive\BravosReq\Allan\Puestos\DesarrolladorWeb\tec_test\ECD_Handler\obj\Debug\net6.0\ref\ECD_Handler.dll
+C:\Users\kbs_s\Documents\ECD_Handler-20250313T162532Z-001\ECD_Handler\bin\Debug\net6.0\ECD_Handler.exe
+C:\Users\kbs_s\Documents\ECD_Handler-20250313T162532Z-001\ECD_Handler\bin\Debug\net6.0\ECD_Handler.deps.json
+C:\Users\kbs_s\Documents\ECD_Handler-20250313T162532Z-001\ECD_Handler\bin\Debug\net6.0\ECD_Handler.runtimeconfig.json
+C:\Users\kbs_s\Documents\ECD_Handler-20250313T162532Z-001\ECD_Handler\bin\Debug\net6.0\ECD_Handler.dll
+C:\Users\kbs_s\Documents\ECD_Handler-20250313T162532Z-001\ECD_Handler\bin\Debug\net6.0\ECD_Handler.pdb
+C:\Users\kbs_s\Documents\ECD_Handler-20250313T162532Z-001\ECD_Handler\obj\Debug\net6.0\ECD_Handler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbs_s\Documents\ECD_Handler-20250313T162532Z-001\ECD_Handler\obj\Debug\net6.0\ECD_Handler.AssemblyInfoInputs.cache
+C:\Users\kbs_s\Documents\ECD_Handler-20250313T162532Z-001\ECD_Handler\obj\Debug\net6.0\ECD_Handler.AssemblyInfo.cs
+C:\Users\kbs_s\Documents\ECD_Handler-20250313T162532Z-001\ECD_Handler\obj\Debug\net6.0\ECD_Handler.csproj.CoreCompileInputs.cache
+C:\Users\kbs_s\Documents\ECD_Handler-20250313T162532Z-001\ECD_Handler\obj\Debug\net6.0\ECD_Handler.dll
+C:\Users\kbs_s\Documents\ECD_Handler-20250313T162532Z-001\ECD_Handler\obj\Debug\net6.0\refint\ECD_Handler.dll
+C:\Users\kbs_s\Documents\ECD_Handler-20250313T162532Z-001\ECD_Handler\obj\Debug\net6.0\ECD_Handler.pdb
+C:\Users\kbs_s\Documents\ECD_Handler-20250313T162532Z-001\ECD_Handler\obj\Debug\net6.0\ECD_Handler.genruntimeconfig.cache
+C:\Users\kbs_s\Documents\ECD_Handler-20250313T162532Z-001\ECD_Handler\obj\Debug\net6.0\ref\ECD_Handler.dll

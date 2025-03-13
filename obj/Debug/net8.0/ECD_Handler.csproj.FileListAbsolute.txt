@@ -1,0 +1,14 @@
+C:\Users\kbs_s\Documents\ECD_Handler-20250313T162532Z-001\ECD_Handler\bin\Debug\net8.0\ECD_Handler.exe
+C:\Users\kbs_s\Documents\ECD_Handler-20250313T162532Z-001\ECD_Handler\bin\Debug\net8.0\ECD_Handler.deps.json
+C:\Users\kbs_s\Documents\ECD_Handler-20250313T162532Z-001\ECD_Handler\bin\Debug\net8.0\ECD_Handler.runtimeconfig.json
+C:\Users\kbs_s\Documents\ECD_Handler-20250313T162532Z-001\ECD_Handler\bin\Debug\net8.0\ECD_Handler.dll
+C:\Users\kbs_s\Documents\ECD_Handler-20250313T162532Z-001\ECD_Handler\bin\Debug\net8.0\ECD_Handler.pdb
+C:\Users\kbs_s\Documents\ECD_Handler-20250313T162532Z-001\ECD_Handler\obj\Debug\net8.0\ECD_Handler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbs_s\Documents\ECD_Handler-20250313T162532Z-001\ECD_Handler\obj\Debug\net8.0\ECD_Handler.AssemblyInfoInputs.cache
+C:\Users\kbs_s\Documents\ECD_Handler-20250313T162532Z-001\ECD_Handler\obj\Debug\net8.0\ECD_Handler.AssemblyInfo.cs
+C:\Users\kbs_s\Documents\ECD_Handler-20250313T162532Z-001\ECD_Handler\obj\Debug\net8.0\ECD_Handler.csproj.CoreCompileInputs.cache
+C:\Users\kbs_s\Documents\ECD_Handler-20250313T162532Z-001\ECD_Handler\obj\Debug\net8.0\ECD_Handler.dll
+C:\Users\kbs_s\Documents\ECD_Handler-20250313T162532Z-001\ECD_Handler\obj\Debug\net8.0\refint\ECD_Handler.dll
+C:\Users\kbs_s\Documents\ECD_Handler-20250313T162532Z-001\ECD_Handler\obj\Debug\net8.0\ECD_Handler.pdb
+C:\Users\kbs_s\Documents\ECD_Handler-20250313T162532Z-001\ECD_Handler\obj\Debug\net8.0\ECD_Handler.genruntimeconfig.cache
+C:\Users\kbs_s\Documents\ECD_Handler-20250313T162532Z-001\ECD_Handler\obj\Debug\net8.0\ref\ECD_Handler.dll
